@@ -1,0 +1,133 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 8 Jun, 2023, 1:31:29 PM
+    Author     : Aatifulla Baig
+*/
+
+/**{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ Modal 
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+  margin-bottom: 2rem;
+  height: 550px;
+  width: 400px;
+}
+
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top {
+  height: 15rem;
+  object-fit: cover;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.card-text {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+
+ Links 
+a{
+    text-decoration: none!important;
+    color: white;
+}
+
+ Navbar 
+.navbar{
+    background-color: black;
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.dropdown-menu {
+  width: 100%;
+  padding: 0.5rem 0;
+  margin-top: 0;
+  background-color: black;
+}
+
+.dropdown-item {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  color: white;
+  font-size: 18px;
+}
+
+.dropdown-item img {
+  margin-right: 1rem;
+  width: 30px;
+  height: 30px;
+}
+
+.dropdown-item:hover {
+  background-color: #444444;
+}
+
+.dropdown-divider {
+  height: 1px;
+  margin: 0.5rem 0;
+  background-color: #999999;
+}
+
+
+ Buttons 
+.btn{
+    color: white;
+    background-color: black;
+    border-color: black;
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+}
+
+ Input 
+.input-group {
+    position: relative!important;
+    right: 21 rem;
+    padding: 12px;
+}
+
+ Title 
+.title{
+    margin-left: 12rem;
+}
+
+ User 
+.user{
+    position:relative;
+    left: 20px;
+}*/
